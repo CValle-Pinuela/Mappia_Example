@@ -175,11 +175,6 @@
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
-				<Name>GH:anas_andium_tbc</Name>
-				<Title>anas_andium_tbc</Title>
-				<Operation type="csv">1</Operation>
-			</CustomLayer>
-			<CustomLayer>
 				<Name>GH:catharus_ustulatus</Name>
 				<Title>catharus_ustulatus</Title>
 				<Operation type="csv">1</Operation>
@@ -192,6 +187,11 @@
 			<CustomLayer>
 				<Name>GH:setophaga_fusca</Name>
 				<Title>setophaga_fusca</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:anas_andium_tbc</Name>
+				<Title>anas_andium_tbc</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
